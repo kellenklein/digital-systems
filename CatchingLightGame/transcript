@@ -1,0 +1,83 @@
+# Loading project AHW4
+# reading /home/kellenk/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project WHW08
+# Compile of FSM.sv failed with 6 errors.
+# Compile of runDetect.sv was successful.
+# Compile of runDetect_tb.sv was successful.
+# Compile of state3_reg.sv was successful.
+# 4 compiles, 1 failed with 6 errors.
+# Compile of FSM.sv failed with 1 errors.
+# Compile of runDetect.sv was successful.
+# Compile of runDetect_tb.sv was successful.
+# Compile of state3_reg.sv was successful.
+# 4 compiles, 1 failed with 1 error.
+# Compile of FSM.sv failed with 1 errors.
+# Compile of runDetect.sv was successful.
+# Compile of runDetect_tb.sv was successful.
+# Compile of state3_reg.sv was successful.
+# 4 compiles, 1 failed with 1 error.
+# Compile of FSM.sv was successful.
+# Compile of runDetect.sv was successful.
+# Compile of runDetect_tb.sv was successful.
+# Compile of state3_reg.sv was successful.
+# 4 compiles, 0 failed with no errors.
+vsim work.runDetect_tb
+# vsim work.runDetect_tb 
+# Start time: 17:36:11 on Apr 20,2026
+# Loading sv_std.std
+# Loading work.runDetect_tb
+# Loading work.runDetect
+# Loading work.FSM
+# Loading work.state3_reg
+# Loading work.reg4
+# Loading work.cnt4
+# Loading work.cnt2
+# Loading work.d_ff
+add wave -position insertpoint sim:/runDetect_tb/iDUT/*
+run
+# ERR: at time                   70 N_abv should still be zero since 4th sample not gt
+# GOOD! test 2 passes
+# GOOD! test 3 passes
+# GOOD! test 4 passes
+# GOOD! test 5 passes
+# GOOD! test 6 passes
+# GOOD! test 7 passes
+# ERRORs exist continue debugging
+# ** Note: $stop    : /home/kellenk/ECE352/WHW/WHW08/runDetect_tb.sv(126)
+#    Time: 320 ps  Iteration: 1  Instance: /runDetect_tb
+# Break in Module runDetect_tb at /home/kellenk/ECE352/WHW/WHW08/runDetect_tb.sv line 126
+# Compile of FSM.sv was successful.
+# Compile of runDetect.sv was successful.
+# Compile of runDetect_tb.sv was successful.
+# Compile of state3_reg.sv was successful.
+# 4 compiles, 0 failed with no errors.
+quit -sim
+# End time: 17:37:15 on Apr 20,2026, Elapsed time: 0:01:04
+# Errors: 0, Warnings: 9
+vsim work.runDetect_tb
+# vsim work.runDetect_tb 
+# Start time: 17:37:50 on Apr 20,2026
+# Loading sv_std.std
+# Loading work.runDetect_tb
+# Loading work.runDetect
+# Loading work.FSM
+# Loading work.state3_reg
+# Loading work.reg4
+# Loading work.cnt4
+# Loading work.cnt2
+# Loading work.d_ff
+add wave -position insertpoint sim:/runDetect_tb/iDUT/*
+run
+# GOOD! test 1 passes
+# GOOD! test 2 passes
+# GOOD! test 3 passes
+# GOOD! test 4 passes
+# GOOD! test 5 passes
+# GOOD! test 6 passes
+# GOOD! test 7 passes
+# YAHOO!! all tests pass!
+# ** Note: $stop    : /home/kellenk/ECE352/WHW/WHW08/runDetect_tb.sv(126)
+#    Time: 320 ps  Iteration: 1  Instance: /runDetect_tb
+# Break in Module runDetect_tb at /home/kellenk/ECE352/WHW/WHW08/runDetect_tb.sv line 126
+# End time: 18:03:32 on Apr 20,2026, Elapsed time: 0:25:42
+# Errors: 0, Warnings: 2

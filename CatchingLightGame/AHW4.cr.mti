@@ -1,0 +1,188 @@
+/home/kellenk/ECE352/AHW/AHW4/segBdec.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/segBdec.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module segBdec
+
+Top level modules:
+	segBdec
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/obj_reg_tb.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/obj_reg_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module obj_reg_tb
+
+Top level modules:
+	obj_reg_tb
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/segCdec.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/segCdec.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module segCdec
+
+Top level modules:
+	segCdec
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/segDdec.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/segDdec.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module segDdec
+
+Top level modules:
+	segDdec
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/rise_edge_detect.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/rise_edge_detect.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rise_edge_detect
+
+Top level modules:
+	rise_edge_detect
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/d_ff.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/d_ff.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module d_ff
+
+Top level modules:
+	d_ff
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/attempts_reg.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/attempts_reg.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module attempts_reg
+
+Top level modules:
+	attempts_reg
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/segEdec.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/segEdec.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module segEdec
+
+Top level modules:
+	segEdec
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/obj_reg.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/obj_reg.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module obj_reg
+
+Top level modules:
+	obj_reg
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/segFdec.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/segFdec.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module segFdec
+
+Top level modules:
+	segFdec
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/claw_fsm_tb.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/claw_fsm_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module claw_fsm_tb
+
+Top level modules:
+	claw_fsm_tb
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/score_reg.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/score_reg.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module score_reg
+
+Top level modules:
+	score_reg
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/segGdec.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/segGdec.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module segGdec
+
+Top level modules:
+	segGdec
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/timer_reg_tb.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/timer_reg_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module timer_reg_tb
+
+Top level modules:
+	timer_reg_tb
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/hit_detector_tb.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/hit_detector_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module hit_detector_tb
+
+Top level modules:
+	hit_detector_tb
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/attempts_reg_tb.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/attempts_reg_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module attempts_reg_tb
+
+Top level modules:
+	attempts_reg_tb
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/claw_fsm_onehot_tb.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/claw_fsm_onehot_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module claw_fsm_onehot_tb
+
+Top level modules:
+	claw_fsm_onehot_tb
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/sweep_ctrl_tb.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/sweep_ctrl_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sweep_ctrl_tb
+
+Top level modules:
+	sweep_ctrl_tb
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/score_reg_tb.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/score_reg_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module score_reg_tb
+
+Top level modules:
+	score_reg_tb
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/hit_detector.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/hit_detector.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module hit_detector
+
+Top level modules:
+	hit_detector
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/timer_reg.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/timer_reg.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module timer_reg
+
+Top level modules:
+	timer_reg
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/bcd7seg.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/bcd7seg.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bcd7seg
+
+Top level modules:
+	bcd7seg
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/claw_fsm_onehot.sv {0 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/claw_fsm_onehot.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module claw_fsm_onehot
+** Error: (vlog-13069) /home/kellenk/ECE352/AHW/AHW4/claw_fsm_onehot.sv(58): near ";": syntax error, unexpected ';'.
+
+} {4.0 5.0} {}} /home/kellenk/ECE352/AHW/AHW4/sweep_ctrl.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/sweep_ctrl.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sweep_ctrl
+
+Top level modules:
+	sweep_ctrl
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/d_en_ff.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/d_en_ff.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module d_en_ff
+
+Top level modules:
+	d_en_ff
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/clkdivN.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/clkdivN.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module clkdivN
+
+Top level modules:
+	clkdivN
+
+} {} {}} /home/kellenk/ECE352/AHW/AHW4/segAdec.sv {1 {vlog -work work -sv -stats=none /home/kellenk/ECE352/AHW/AHW4/segAdec.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module segAdec
+
+Top level modules:
+	segAdec
+
+} {} {}}
